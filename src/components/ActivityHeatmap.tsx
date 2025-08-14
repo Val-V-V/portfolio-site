@@ -15,7 +15,7 @@ export default function ActivityHeatmap({ data }) {
       data={dataObj}
       startDate="2024-10-30"
       colors={[
-        '#2e0749ff',
+        '#b9a1cad7',
         '#571089',
         '#6411AD',
         '#6D23B6',
