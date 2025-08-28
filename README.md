@@ -17,7 +17,7 @@ Built with:
 - **Framework**: [Next.js 14](https://nextjs.org/) 
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Sass (SCSS Modules)](https://sass-lang.com/)  
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Animations**: [Rive](https://rive.app/)
 - **Components/UI**: [Mantine UI](https://mantine.dev/)
 - **Data Fetching**: GitHub GraphQL API + LeetCode API
 - **Deployment**: Coming soon 
